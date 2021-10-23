@@ -1,0 +1,104 @@
+nav{
+	background-color: black;
+	overflow: 35px;
+	padding-top: 25px;
+	height: 65px;
+	position: relative;
+	color: white;
+	align-items: center;
+}
+
+ul li{
+	overflow: hidden;
+	height: 20px;
+	padding-top: 30px;
+	position: relative;
+	float: left;
+}
+
+a:{
+text-decoration: none;
+}
+.first-section{
+	padding: 50PX;
+	background-image: url(IMAGE1.jfif);
+	width:100%;
+	height:300px ;
+	background-size: cover;
+	background-position: center center;
+	font-size: 25px;
+
+}
+.div4{
+	border-radius: 35px;
+}
+.footer{
+	bottom: 0;
+	background-color: black;
+	height: 50px;
+	color: white;
+	width: 100%;
+	position: absolute;
+
+}
+img{
+	border-radius: 50%;
+	display: flex;
+}
+.div1{
+	width:auto;
+	height:auto;
+	float:left;
+	display:flex;
+	margin-left: ;
+
+
+}
+.div2{
+	width:auto;
+	height: auto;
+	float: right;
+	display: flex;
+	margin-right: 50px;
+}
+
+span{
+	color: white;
+	font-size: 25px;
+	padding: 25px;
+}
+table, th,td,{
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	height: 10px;
+}
+th, td{
+	padding: 10px;
+}
+.footer{
+	position: absolute;
+	bottom: 0;
+	width: 100;
+	height: 50;
+	background: black;
+	position: fixed;
+	color: white;
+}
+
+#div2{
+	display: flex;
+	float: right;
+}
+#div2{
+	display: flex;
+	float: left;
+}
+
+
+
+
+
+
+
